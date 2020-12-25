@@ -13,7 +13,7 @@ ___
 
 ## 2. ip address 확인 
 
-> $ hostname -i
+**$ hostname -i**
 
 터미널에서 ip address 를 확인한뒤 3번 실행문에서 **계정명@inet값** 을 입력해주세요.
 
