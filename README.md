@@ -42,7 +42,7 @@ ___
 ![mecab 테스트](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/install_test_1.png)
 
 > 주의사항   
-![ssh_동작_active](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/ssh_%EC%9E%91%EB%8F%99_%ED%99%95%EC%9D%B8.jpg)
+![ssh_동작_active](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/ssh_%EC%9E%91%EB%8F%99%ED%99%95%EC%9D%B8_2.jpg)
 
 **코드를 실행하기 전에 ssh 가 활성화되어 있어야 합니다.** 
 
