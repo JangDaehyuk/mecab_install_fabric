@@ -7,11 +7,15 @@ install mecab with fabric library
 
 **$ pip install -r requirement.txt** 
 
+___  
+
 ## 2. ip address 확인 
 
 > $ hostname -i
 
 터미널에서 ip address 를 확인한뒤 3번 실행문에서 **계정명@inet값** 을 입력해주세요.
+
+___  
 
 ## 3. fabfile 실행
 
@@ -19,6 +23,7 @@ install mecab with fabric library
 
 **mecab 형태소 분석기는 전역에 설치됩니다.**
 
+___  
 
 >**설치하기 전 형태소 분석기 확인**   
 
@@ -29,7 +34,7 @@ install mecab with fabric library
 >**설치 완료**    
 ![설치 완료](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/mecab_installed.png)
 
-
+___  
 
 >**mecab 형태소 분석기 테스트**    
 ![mecab 테스트](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/install_test_1.png)
