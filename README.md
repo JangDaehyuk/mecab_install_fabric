@@ -19,12 +19,16 @@ install mecab with fabric library
 
 mecab 형태소 분석기는 전역에 설치됩니다.
 
-**설치하기 전 형태소 분석기 확인** 
+**설치하기 전 형태소 분석기 확인**   
 
 ![설치하기 전](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/mecab_0_before_install.png)
 
-**설치 완료**
+
+
+**설치 완료**  
 ![설치 완료](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/mecab_installed.png)
 
-**mecab 형태소 분석기 테스트**
+
+
+**mecab 형태소 분석기 테스트**  
 ![mecab 테스트](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/install_test_1.png)
