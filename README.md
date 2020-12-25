@@ -1,6 +1,8 @@
 # mecab_install_fabric
 install mecab with fabric library
 
+### 우분투 리눅스에서 형태소 분석기 mecab 을 쉽게 설치하도록 도와주는 프로젝트입니다.
+### 아래 설명을 따라서 진행해주시면 됩니다.
 #### **실행환경: ubuntu 18.04**
 
 ### 1. fabric 패키지를 설치 합니다.
