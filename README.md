@@ -11,7 +11,7 @@ install mecab with fabric library
 
 > $ hostname -i
 
-터미널에서 ip address 를 확인한뒤 데스크탑의 **계정명@inet값** 을 입력해주세요.
+터미널에서 ip address 를 확인한뒤 **계정명@inet값** 을 입력해주세요.
 
 ## 3. fabfile 실행
 
