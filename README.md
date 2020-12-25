@@ -34,7 +34,7 @@ ___
 
 
 > ### **설치 완료**    
-![설치 완료](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/mecab_installed.png)
+![설치 완료](https://github.com/JangDaehyuk/mecab_install_fabric/blob/main/image/mecab_installed_%EB%8F%99%EC%9E%91_%ED%99%95%EC%9D%B8.jpg)
 
 ___  
 
